@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Get ahead with one day's worth of nims by signing up using ZN2VAM code. 
+app_description                           : Get ahead with one day's worth of Nims (2500 free Nims) by signing up using code ZN2VAM. 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,8 +34,8 @@ youtube_username                          : nimses
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : How does the NIM or (virtual currency) work?
+    description                           : For each day, a NIM grows automatically by 1440 – the exact number of minutes in 24 hours. So in a month, a user will accumulate 43,830 without doing anything. You can use these NIMs with participating vendors to purchase anything you want. As popularly grows, more and more vendors are excepting Nims as currency. Don’t forget the invite code when you register because you will lose out on the offer. Nimses does not have a way to backtrack the registration process.
     fontawesome_icon_name                 : magic
     
   - title                                 : iPhone Device Preview
