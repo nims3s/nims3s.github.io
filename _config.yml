@@ -1,5 +1,5 @@
 #page title
-page_title                                : Welcome to Nimses | 2500 free Nims on sign up | Nimses invite code: ZN2VAM                                             # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Welcome to Nimses / 2500 free Nims on sign up / Nimses invite code ZN2VAM # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1201745929                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
