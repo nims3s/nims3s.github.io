@@ -36,11 +36,11 @@ features                                  :
 
   - title                                 : How does the NIM or (virtual currency) work?
     description                           : For each day, a NIM grows automatically by 1440 – the exact number of minutes in 24 hours. So in a month, a user will accumulate 43,830 without doing anything. You can use these NIMs with participating vendors to purchase anything you want. As popularly grows, more and more vendors are excepting Nims as currency. Don’t forget the invite code when you register because you will lose out on the offer. Nimses does not have a way to backtrack the registration process.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : money-bill-wave
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : What is Nimses?
+    description                           : Nimses is a worldwide system which records and saves the time of a human being’s life. After the user registers an account with Nimses, each minute of the person’s life turns into a single Nim, a unique and indestructible unit of digital currency. The total number of Nims produced and gained by one person is accumulated into their individual account balance, called the Nimb. One can manage their personal Nimb through the free, location-based Nimses App.
+    fontawesome_icon_name                 : question
 
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
@@ -82,29 +82,29 @@ topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
+cover_overlay_color                       : "#000000"
 cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "ffffff"
+body_background_color                     : "000000"
 
-link_color                                : "#1d63ea"
+link_color                                : "#ffffff"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_text_color                        : "#000000"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#ffffff"
+feature_icons_background_color            : "#ffffff"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#ffffff"
+social_icons_background_color             : "#ffffff"
 
-footer_text_color                         : "#666666"
+footer_text_color                         : "#ffffff"
 
 
 
